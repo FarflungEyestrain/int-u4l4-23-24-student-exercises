@@ -20,7 +20,7 @@ button.addEventListener("click", function() {
         newyorkMessage.style.display = "block";
     } else if (state === "Other" || "other"){
         other.style.display = "block";
-    }
+    } 
     // 3. Write an else if statement that would display the new york message if a user says they're from "New York".
     
     // 4. Write an else statement that displays the other message if the user types in a different state.
